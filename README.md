@@ -74,4 +74,4 @@ Nest is [MIT licensed](LICENSE).
 
 ## MongoDB Integration
 
-Change properties <username> and <password> in file app.module.ts to use your MongoDB connection.
+Change properties &lt;username&gt; and &lt;password&gt; in file app.module.ts to use your MongoDB connection.
